@@ -36,7 +36,7 @@ function App() {
               Decrement
             </button>
           </div>
-          {/* <button
+          <button
             onClick={handleReset}
             className="mt-4 px-3 py-3 rounded-md bg-yellow-500 text-xl font-semibold text-white">
             Reset
@@ -49,7 +49,7 @@ function App() {
                 Box
               </div>
             ))}
-          </div> */}
+          </div>
         </div>
       </div>
     </>
